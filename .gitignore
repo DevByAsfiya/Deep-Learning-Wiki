@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Model artefacts and data, too large for git
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+*.safetensors
+data/
+datasets/
+runs/
+wandb/
+mlruns/
+
+# PDFs of papers, link to them instead of committing them
+papers/pdfs/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
