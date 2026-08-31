@@ -52,6 +52,8 @@ Deep-Learning-Wiki/
 ├── _meta/                        conventions that keep the repo consistent
 │   ├── conventions.md            naming, formatting, file layout rules
 │   ├── taxonomy.md               the tag vocabulary
+│   ├── adding-content.md         how to add each content type
+│   ├── llm-prompt.md             prompts for AI-assisted writing
 │   ├── glossary.md               every term, one place
 │   └── roadmap.md                what is planned next
 │

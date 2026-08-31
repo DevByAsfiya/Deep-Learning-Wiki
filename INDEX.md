@@ -141,6 +141,8 @@ flat list, see [learning paths](00-start-here/learning-paths.md).
 | [Paper note template](_templates/PAPER_NOTE_TEMPLATE.md) | Skeleton for a paper summary |
 | [Implementation template](_templates/IMPLEMENTATION_TEMPLATE.md) | Skeleton for code plus walkthrough |
 | [Index template](_templates/INDEX_TEMPLATE.md) | Skeleton for a folder index |
+| [Adding content](_meta/adding-content.md) | Step by step workflow for every content type |
+| [LLM prompts](_meta/llm-prompt.md) | Reusable prompts for generating repo-shaped content |
 
 ---
 
